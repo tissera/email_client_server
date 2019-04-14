@@ -1,0 +1,7 @@
+F:\C# Trainning\Project\EmailServer\DataLayer\bin\Debug\DataLayer.dll
+F:\C# Trainning\Project\EmailServer\DataLayer\bin\Debug\DataLayer.pdb
+F:\C# Trainning\Project\EmailServer\DataLayer\bin\Debug\ModelLayer.dll
+F:\C# Trainning\Project\EmailServer\DataLayer\bin\Debug\ModelLayer.pdb
+F:\C# Trainning\Project\EmailServer\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\C# Trainning\Project\EmailServer\DataLayer\obj\Debug\DataLayer.dll
+F:\C# Trainning\Project\EmailServer\DataLayer\obj\Debug\DataLayer.pdb

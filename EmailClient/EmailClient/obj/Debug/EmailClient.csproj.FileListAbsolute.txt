@@ -1,0 +1,17 @@
+F:\C# Trainning\Project\EmailClient\EmailClient\EmailClient\bin\Debug\EmailClient.exe.config
+F:\C# Trainning\Project\EmailClient\EmailClient\bin\Debug\EmailClient.exe.config
+F:\C# Trainning\Project\EmailClient\EmailClient\bin\Debug\EmailClient.exe
+F:\C# Trainning\Project\EmailClient\EmailClient\bin\Debug\EmailClient.pdb
+F:\C# Trainning\Project\EmailClient\EmailClient\bin\Debug\DataLayer.dll
+F:\C# Trainning\Project\EmailClient\EmailClient\bin\Debug\ModelLayer.dll
+F:\C# Trainning\Project\EmailClient\EmailClient\bin\Debug\DataLayer.pdb
+F:\C# Trainning\Project\EmailClient\EmailClient\bin\Debug\ModelLayer.pdb
+F:\C# Trainning\Project\EmailClient\EmailClient\obj\Debug\EmailClient.csprojResolveAssemblyReference.cache
+F:\C# Trainning\Project\EmailClient\EmailClient\obj\Debug\EmailClient.CreateMail.resources
+F:\C# Trainning\Project\EmailClient\EmailClient\obj\Debug\EmailClient.DraftMail.resources
+F:\C# Trainning\Project\EmailClient\EmailClient\obj\Debug\EmailClient.InBox.resources
+F:\C# Trainning\Project\EmailClient\EmailClient\obj\Debug\EmailClient.frmLogin.resources
+F:\C# Trainning\Project\EmailClient\EmailClient\obj\Debug\EmailClient.Properties.Resources.resources
+F:\C# Trainning\Project\EmailClient\EmailClient\obj\Debug\EmailClient.csproj.GenerateResource.Cache
+F:\C# Trainning\Project\EmailClient\EmailClient\obj\Debug\EmailClient.exe
+F:\C# Trainning\Project\EmailClient\EmailClient\obj\Debug\EmailClient.pdb

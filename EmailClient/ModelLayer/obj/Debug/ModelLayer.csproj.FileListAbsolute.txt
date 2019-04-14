@@ -1,0 +1,4 @@
+F:\C# Trainning\Project\EmailClient\ModelLayer\bin\Debug\ModelLayer.dll
+F:\C# Trainning\Project\EmailClient\ModelLayer\bin\Debug\ModelLayer.pdb
+F:\C# Trainning\Project\EmailClient\ModelLayer\obj\Debug\ModelLayer.dll
+F:\C# Trainning\Project\EmailClient\ModelLayer\obj\Debug\ModelLayer.pdb

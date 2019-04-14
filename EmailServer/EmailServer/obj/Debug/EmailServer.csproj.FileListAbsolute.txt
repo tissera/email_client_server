@@ -1,0 +1,10 @@
+F:\C# Trainning\Project\EmailServer\EmailServer\bin\Debug\EmailServer.exe.config
+F:\C# Trainning\Project\EmailServer\EmailServer\bin\Debug\EmailServer.exe
+F:\C# Trainning\Project\EmailServer\EmailServer\bin\Debug\EmailServer.pdb
+F:\C# Trainning\Project\EmailServer\EmailServer\bin\Debug\DataLayer.dll
+F:\C# Trainning\Project\EmailServer\EmailServer\bin\Debug\ModelLayer.dll
+F:\C# Trainning\Project\EmailServer\EmailServer\bin\Debug\DataLayer.pdb
+F:\C# Trainning\Project\EmailServer\EmailServer\bin\Debug\ModelLayer.pdb
+F:\C# Trainning\Project\EmailServer\EmailServer\obj\Debug\EmailServer.csprojResolveAssemblyReference.cache
+F:\C# Trainning\Project\EmailServer\EmailServer\obj\Debug\EmailServer.exe
+F:\C# Trainning\Project\EmailServer\EmailServer\obj\Debug\EmailServer.pdb
